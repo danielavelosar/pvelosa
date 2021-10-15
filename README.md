@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paula Velosa
-- 👀 I’m interested in data and design
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on data analysis projects 
+- 👀 I’m interested in art and tech
+- 🌱 I’m currently learning js and 3d!
+- 💞️ I’m looking to collaborate on product design/animationprojects 
  📫 How to reach me? here is my email: paula.velosa2704@gmail.com
 
 <!---
